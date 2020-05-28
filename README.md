@@ -1,8 +1,8 @@
-#My Portfolio
+# My Portfolio
 
-Readme Currently Under Construction
+# Readme Currently Under Construction
 
-##Table of Contents
+## Table of Contents
 
 #### [Overview]
 #### [Technologies]
